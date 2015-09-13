@@ -1,9 +1,9 @@
 # misc-dev
 
-*version 1.0.0*
+*version 1.0.1*
 
 ## rmarkdown-swift
-standardardized rmarkdown template
+standardized rmarkdown template
 
 ## shiny-tutorial
 RStudio shiny tutorial
