@@ -1,6 +1,6 @@
 # misc-dev
 
-*version 1.0.1*
+*version 1.0.2*
 
 ## `rmarkdown-swift/`
 standardized rmarkdown template
