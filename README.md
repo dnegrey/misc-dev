@@ -2,8 +2,8 @@
 
 *version 1.0.1*
 
-## rmarkdown-swift
+## `rmarkdown-swift/`
 standardized rmarkdown template
 
-## shiny-tutorial
+## `shiny-tutorial/`
 RStudio shiny tutorial
