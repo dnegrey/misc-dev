@@ -1,6 +1,6 @@
 # misc-dev
 
-*version 1.1.0*
+*version 1.2.0*
 
 ## `farmers-market/`
 choropleth map project
@@ -10,3 +10,6 @@ standardized rmarkdown template
 
 ## `shiny-tutorial/`
 RStudio shiny tutorial
+
+## `R/`
+various custom R functions
